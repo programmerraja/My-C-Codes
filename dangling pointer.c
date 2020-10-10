@@ -1,10 +1,3 @@
-
-/*
-
-question https://www.sololearn.com/Discuss/1943807/?ref=app
-
-
-*/
 #include <stdio.h>
 #include<stdlib.h>
 #include<string.h>
